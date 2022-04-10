@@ -1,0 +1,7 @@
+D:\HG\C#\Oyun\proje 1\Oyun\Oyun\bin\Debug\Oyun.exe.config
+D:\HG\C#\Oyun\proje 1\Oyun\Oyun\bin\Debug\Oyun.exe
+D:\HG\C#\Oyun\proje 1\Oyun\Oyun\bin\Debug\Oyun.pdb
+D:\HG\C#\Oyun\proje 1\Oyun\Oyun\obj\Debug\Oyun.csproj.CoreCompileInputs.cache
+D:\HG\C#\Oyun\proje 1\Oyun\Oyun\obj\Debug\Oyun.exe
+D:\HG\C#\Oyun\proje 1\Oyun\Oyun\obj\Debug\Oyun.pdb
+D:\HG\C#\Oyun\proje 1\Oyun\Oyun\obj\Debug\Oyun.csproj.AssemblyReference.cache
